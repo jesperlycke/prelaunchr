@@ -7,3 +7,8 @@ test:
   adapter: postgresql
   database: prelaunchr_test
   host: localhost
+
+production:
+  adapter: postgresql
+  database: d21icef24tih5c
+  host: ec2-107-22-250-212.compute-1.amazonaws.com
