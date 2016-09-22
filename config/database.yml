@@ -12,3 +12,4 @@ production:
   adapter: postgresql
   database: d21icef24tih5c
   host: ec2-107-22-250-212.compute-1.amazonaws.com
+  password: o7XNfG3DvJTlr2cQR13Tru_v-Y
